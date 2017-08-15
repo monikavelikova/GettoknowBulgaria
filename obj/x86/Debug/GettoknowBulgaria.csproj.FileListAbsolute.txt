@@ -1,0 +1,134 @@
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\bin\Debug\GettoknowBulgaria.exe
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\bin\Debug\GettoknowBulgaria.pdb
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormNachalo.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormEzik.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDescription.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormMap.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPazardzhik.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPazrdzhikEcoPaths.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormThePathOfTheHeroes.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.Properties.Resources.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.csproj.GenerateResource.Cache
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.exe
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.pdb
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDescriptionBG.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKarta.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormThePathOfHeroesMap.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTheHeroesPathMap.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.csprojResolveAssemblyReference.cache
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormRuse.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSofiaProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDobrich.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSilistraProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVarna.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVelikoTurnovoProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPlevenProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormLovechProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormGabrovoProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVratsaProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormMontana.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVidinProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPernik.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKyustendilProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormBlagoevgradProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSmolyanProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKardzhaliProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormHaskovoProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormStaraZagora.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSlivenProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormYambol.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPlovdivProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormRazgradProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormShumen.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTargovishteProvince.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSmolyanProvinceEcoPaths.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormCanyonOfTheWaterfalls.resources
+C:\Users\moni\Desktop\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormCanyonOfTheWaterfallsMap.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.exe
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.pdb
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.csprojResolveAssemblyReference.cache
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormNachalo.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormThePathOfHeroesMap.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTheHeroesPathMap.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormRuse.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSofiaProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDobrich.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSilistraProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVarna.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVelikoTurnovoProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPlevenProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormLovechProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormEzik.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormGabrovoProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVratsaProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormMontana.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVidinProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPernik.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKyustendilProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormBlagoevgradProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSmolyanProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKardzhaliProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormHaskovoProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDescription.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormStaraZagora.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSlivenProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormYambol.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPlovdivProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormRazgradProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormShumen.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTargovishteProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSmolyanProvinceEcoPaths.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormCanyonOfTheWaterfalls.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormCanyonOfTheWaterfallsMap.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormMap.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPazardzhik.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormGabrovoProvinceEcoPaths.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPlovdivProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSilistraProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDobrichProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVarnaProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormLovechProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormHaskovoProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPernikProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVidinProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPazrdzhikEcoPaths.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormMontanaProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSlivenProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormRazgradProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormYambolProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormPlevenProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormSofiaProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormRuseProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVelikoTarnovoEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVratsaProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKyustendilProvinceEcoPaths.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormThePathOfTheHeroes.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormBlagoevgradProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKardzhaliProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormStaraZagoraProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormShumenProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTargovishteProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormEmenskiCanyonEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTheWhiteRiverEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTheWhiteIskarEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDescriptionBG.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormKarta.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.Properties.Resources.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.csproj.GenerateResource.Cache
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\bin\Debug\GettoknowBulgaria.exe
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\bin\Debug\GettoknowBulgaria.pdb
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVitataStenaEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormEcoPathOfTran.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormVazovaEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormViaFerataEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormHotnitsaEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormDrqnovskaEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTheKoprenEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormNegovanskaEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormZagrajdenEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormNeviastataEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormBorovKamakEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormTheCaveEcoPath.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormBurgasProvinceEcoPathsEn.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormBurgasProvince.resources
+C:\Users\moni\Desktop\Нова папка\GettoknowBulgariq\GettoknowBulgaria\GettoknowBulgaria\GettoknowBulgaria\obj\x86\Debug\GettoknowBulgaria.FormMarinaRekaEcoPath.resources
